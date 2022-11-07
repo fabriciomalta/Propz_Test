@@ -1,0 +1,50 @@
+{"Products":[  
+    {
+        "Product_Id": 1,
+        "Product_Name": "Kit Refrigerante Coca-Cola Original + Fanta Guaraná 2 L Cada Oferta Especial",
+        "Valid_Until": "07/11/2022",
+        "Price":"13.19",
+        "offer_link": "#",
+        "Product_img":"./assets/img/Prodctz/Coca.png"
+    },  
+    {
+        "Product_Id": 2,
+        "Product_Name": "Café Torrado e Moído Pilão Tradicional Almofada 500 g",
+        "Valid_Until": "07/11/2022",
+        "Price":"20.89",
+        "offer_link": "#",
+        "Product_img":"./assets/img/Prodctz/cafe_pilao.png"
+    },  
+    {
+        "Product_Id": 1,
+        "Product_Name": "Biscoito recheado Oreo Original Multipack 144g",
+        "Valid_Until": "07/11/2022",
+        "Price":"6.49",
+        "offer_link": "#",
+        "Product_img":"./assets/img/Prodctz/oreo.png"
+    },
+    {
+        "Product_Id": 1,
+        "Product_Name": "Creme Dental Whitening Colgate Total 12 Caixa 180g",
+        "Valid_Until": "07/11/2022",
+        "Price":"10.69",
+        "offer_link": "#",
+        "Product_img":"./assets/img/Prodctz/creme_dental.png"
+    },
+    {
+        "Product_Id": 1,
+        "Product_Name": "Sabonete Corporal Dove Original 90g",
+        "Valid_Until": "07/11/2022",
+        "Price":"6.49",
+        "offer_link": "#",
+        "Product_img":"./assets/img/Prodctz/sabonete.png"
+    },
+    {
+        "Product_Id": 1,
+        "Product_Name": "Pano Reutilizável Scott Duramax Rolo - 58 unidades",
+        "Valid_Until": "07/11/2022",
+        "Price":"11.99",
+        "offer_link": "#",
+        "Product_img":"./assets/img/Prodctz/pano.png"       
+    } 
+]}  
