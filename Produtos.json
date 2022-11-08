@@ -1,50 +1,38 @@
 {"Products":[  
     {
-        "Product_Id": 1,
-        "Product_Name": "Kit Refrigerante Coca-Cola Original + Fanta Guaraná 2 L Cada Oferta Especial",
-        "Valid_Until": "07/11/2022",
-        "Price":"13.19",
-        "offer_link": "#",
-        "Product_img":"./assets/img/Prodctz/Coca.png"
+        "Id": 1,
+        "Name": "GOOD GIRL DOT DRAMA EDP",
+        "Size": "80ml",
+        "fabricante": "CAROLINA HERRERA",
+        "valor_avista":"499.90",
+        "max_parcela_sjuros": "10",
+        "max_parcela_cjuros": "15",
+        "taxa_juros":"1.19",
+        "Product_img":"./assets/img/Prodctz/perfum.jpg",
+        "offer_link": "#"
     },  
     {
-        "Product_Id": 2,
-        "Product_Name": "Café Torrado e Moído Pilão Tradicional Almofada 500 g",
-        "Valid_Until": "07/11/2022",
-        "Price":"20.89",
-        "offer_link": "#",
-        "Product_img":"./assets/img/Prodctz/cafe_pilao.png"
+        "Id": 2,
+        "Name": "QUATRE EAU DE TOILETTE",
+        "Size": "100ml",
+        "fabricante": "BOUCHERON",
+        "valor_avista":"692.00",
+        "max_parcela_sjuros": "12",
+        "max_parcela_cjuros": "14",
+        "taxa_juros":"1.31",
+        "Product_img":"./assets/img/Prodctz/quatre.jpg",
+        "offer_link": "#"
     },  
     {
-        "Product_Id": 1,
-        "Product_Name": "Biscoito recheado Oreo Original Multipack 144g",
-        "Valid_Until": "07/11/2022",
-        "Price":"6.49",
-        "offer_link": "#",
-        "Product_img":"./assets/img/Prodctz/oreo.png"
-    },
-    {
-        "Product_Id": 1,
-        "Product_Name": "Creme Dental Whitening Colgate Total 12 Caixa 180g",
-        "Valid_Until": "07/11/2022",
-        "Price":"10.69",
-        "offer_link": "#",
-        "Product_img":"./assets/img/Prodctz/creme_dental.png"
-    },
-    {
-        "Product_Id": 1,
-        "Product_Name": "Sabonete Corporal Dove Original 90g",
-        "Valid_Until": "07/11/2022",
-        "Price":"6.49",
-        "offer_link": "#",
-        "Product_img":"./assets/img/Prodctz/sabonete.png"
-    },
-    {
-        "Product_Id": 1,
-        "Product_Name": "Pano Reutilizável Scott Duramax Rolo - 58 unidades",
-        "Valid_Until": "07/11/2022",
-        "Price":"11.99",
-        "offer_link": "#",
-        "Product_img":"./assets/img/Prodctz/pano.png"       
-    } 
+        "Id": 3,
+        "Name": "BE UNISSEX EAU DE TOILETTE",
+        "Size": "50ml",
+        "fabricante": "CALVIN KLEIN",
+        "valor_avista":"229.00",
+        "max_parcela_sjuros": "10",
+        "max_parcela_cjuros": "18",
+        "taxa_juros":"1.05",
+        "Product_img":"./assets/img/Prodctz/calvin.jpg",
+        "offer_link": "#"
+    }
 ]}  

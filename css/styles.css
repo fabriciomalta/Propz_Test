@@ -654,6 +654,7 @@ progress {
   .container-md, .container-sm, .container {
     max-width: 720px;
   }
+
 }
 @media (min-width: 992px) {
   .container-lg, .container-md, .container-sm, .container {
@@ -2140,6 +2141,11 @@ progress {
   .table-responsive-md {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
+  }
+  html body .carousel-control-next-icon, html body .carousel-control-prev-icon{
+    margin-left:0!important;
+    margin-right:0!important;
+    margin-bottom: 10rem;
   }
 }
 @media (max-width: 991.98px) {
@@ -11459,4 +11465,80 @@ header.masthead h1, header.masthead .h1 {
 }
 #portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption, #portfolio .container-sm .portfolio-box:hover .portfolio-box-caption, #portfolio .container-md .portfolio-box:hover .portfolio-box-caption, #portfolio .container-lg .portfolio-box:hover .portfolio-box-caption, #portfolio .container-xl .portfolio-box:hover .portfolio-box-caption, #portfolio .container-xxl .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
+}
+
+body .carousel-control-next-icon {
+  width: 16px;
+  border-top: 25px solid transparent;
+  border-bottom: 25px solid transparent;
+  border-left: 36px solid #de9931;
+  margin-left: 20rem;
+}
+body .carousel-control-prev-icon {
+  width: 16px;
+  border-top: 25px solid transparent;
+  border-bottom: 25px solid transparent;
+  border-right: 36px solid #de9931;
+  margin-right: 20rem;
+}
+body .carousel-control-prev, body .carousel-control-next{
+  opacity: 1;
+}
+.carousel-caption{
+  position: initial;
+}
+hr.divider {
+  height: 0.1rem;
+  max-width: 75%;
+  opacity: 1;
+  background-color:black;
+  /* margin: initial; */
+  margin-top: -1rem;
+  margin-bottom: 0.5rem;
+}
+body sup{
+  font-size: 0.45em;
+  top: -1.2em;
+  /* left: -0.5em; */
+}
+body .nojuros{
+  font-size: 0.45em;
+}
+.credit_opt{
+  width: 45%;
+}
+.title_msg{
+  background: #DEC4AB;
+  background: linear-gradient(to right, #DEC4AB 0%, #DE9931 30%, #DE9931 60%, #DE9931 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: system-ui;
+  font-size: 6rem;
+  font-weight: 400;
+}
+.city_list{
+  list-style: none;
+}
+body .card .list-group{
+  border:none;
+}
+body .hr_propz{
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 0.1rem;
+  background-color: #DEC4AB;
+  margin-top: -0.2rem;
+}
+.card_info{
+  border: 2px solid #DEC4AB;
+  border-radius: 0px;
+  height: 350px;
+  margin-bottom: 2rem;
+}
+li.city_list {
+  font-size: 1.2rem;
+  margin-bottom: 0.8rem;
+  color: #6c757d;
+  font-weight: 500
 }
